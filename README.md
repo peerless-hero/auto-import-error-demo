@@ -8,7 +8,7 @@ The project dependencies are all listed in "package.json", **unplugin-auto-impor
 
 After ranking, when all of the following conditions are met:
 
-- The version of **unplugin-auto-import**的版本号“>=13.0”。
+- The version of **unplugin-auto-import** is ">=13.0"。
 - Use any component (whether it is a third-party import or a custom component) in the **App.vue** file, but do not use the "import" statement to explicitly import.
 - Both **ant-design-vue** and **vuedraggable** exist in the "optimizeDeps.vuedraggable" configuration of "vite.config.ts"
 

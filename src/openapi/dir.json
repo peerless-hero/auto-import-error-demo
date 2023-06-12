@@ -1,0 +1,4 @@
+[
+  "./src/openapi/system/user/list",
+  "./src/openapi/system/user/{id}"
+]

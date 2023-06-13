@@ -19,7 +19,7 @@ The generated [auto-imports.d.ts](./types/auto-imports.d.ts) will have an error 
 Based on the above error conditions, there are the following solutions:
 
 - Downgrade the version number of **unplugin-auto-import** to "<=0.15.3
-- Adjust the "optimizeDeps.vuedraggable" configuration of "vite.config.ts", not allowing ant-design-vue and vuedraggable to exist at the same time.
+- Replacement string.
 
 ## reason
 

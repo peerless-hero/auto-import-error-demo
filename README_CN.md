@@ -20,7 +20,7 @@
 基于上面错误产生的条件，有如下解决方案：
 
 - 将**unplugin-auto-import**的版本号降级为“<=0.15.3
-- 调整“vite.config.ts”的“optimizeDeps.vuedraggable”配置，不允许ant-design-vue和vuedraggable同时存在。
+- 替换字符串。
 
 ## 原因
 
